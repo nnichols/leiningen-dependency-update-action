@@ -1,6 +1,6 @@
 # ref: https://help.github.com/en/actions/building-actions/metadata-syntax-for-github-actions
 name: Leiningen Dependency Update Action
-description: A simple GitHub Actions to create Pull Requests for outdated leiningen dependencies
+description: DEPRECATED - A simple GitHub Actions to create Pull Requests for outdated leiningen dependencies
 
 author: Nick Nichols
 
